@@ -1,0 +1,39 @@
+/*Author name: Ebikus*/
+.div1{
+	background-color: skyblue;
+	
+	}
+
+	h2{
+		color:white;
+	}
+
+	.image{
+		/*size: 40%;*/
+		float: right;
+	}
+
+.div2{
+	background-color: gold;
+	font-size:80px;
+	}
+	#id1{
+		font-weight: 50;
+		font-size: 100;
+	}
+
+.ul1{
+	list-style-type: square;
+}
+
+/*.ol1{
+	list-style-type: lower-alpha;
+}*/
+
+.tagName{
+	font-family: serif;
+	font-size:50px; 
+	color:red;
+	
+}
+
